@@ -1,6 +1,7 @@
 ✨ Pretty Glow
 
 Pretty Glow is your personal skincare and beauty companion. Designed to help users achieve radiant, healthy skin, Pretty Glow offers personalized routines, product insights, and community support—all in one elegant, user-friendly app.
+
 🌟 Features
 
     Custom Skincare Routines: Receive skincare plans tailored to your unique skin type and goals.
