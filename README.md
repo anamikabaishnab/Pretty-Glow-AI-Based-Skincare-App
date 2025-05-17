@@ -15,11 +15,7 @@ Pretty Glow is your personal skincare and beauty companion. Designed to help use
     Beauty Community: Share your routines, get tips, and discover trending products and regimens.
 
 📲 Getting Started
-Prerequisites
 
-    Node.js ≥ 16.x
-
-    React Native CLI or Expo CLI
 Installation
 cd pretty-glow
 npm install
@@ -32,4 +28,5 @@ With React Native:
 npx react-native run-android
 # or
 npx react-native run-ios
+
 We welcome contributions! Please fork the repo, create a new branch, and submit a pull request.
