@@ -26,7 +26,8 @@ npx expo start
 
 With React Native:
 npx react-native run-android
-# or
+or
 npx react-native run-ios
+
 
 We welcome contributions! Please fork the repo, create a new branch, and submit a pull request.
